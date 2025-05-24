@@ -7,7 +7,7 @@
 ## 👥 ¿Quiénes somos?
 <table>
 <tr>
-  <td width="190">
+  <td width="200">
     <img src="front-femSyncronia/src/assets/img/png/MID_Tech.png" alt="MID Tech" height="100">
   </td>
   <td>
@@ -24,7 +24,7 @@ Desarrollar y mejorar una aplicación móvil tipo calendario menstrual, implemen
 
 **🚀 Nuestro objetivo:**  
 Ayudar a las mujeres a llevar un mejor control de su ciclo menstrual y disfrutar sus días con mayor tranquilidad.
-<br>
+<br><br>
 
 ## 📱 ¿Qué hace nuestra app?
 
