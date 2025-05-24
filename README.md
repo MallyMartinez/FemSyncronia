@@ -65,9 +65,9 @@ Ayudar a las mujeres a llevar un mejor control de su ciclo menstrual y disfrutar
 >Una mirada rápida al funcionamiento de la app:
 
 <p align="left">
-  <img src="img readme/preview_1.png" alt="Inicio" height="400"/>
-  <img src="img readme/preview_2.png" alt="Calendario" height="400"/>
-  <img src="img readme/preview_3.png" alt="Registro" height="400"/>
+  <img src="img readme/Preview_1.png" alt="Inicio" height="400"/>
+  <img src="img readme/Preview_2.png" alt="Calendario" height="400"/>
+  <img src="img readme/Preview_3.png" alt="Registro" height="400"/>
   <img src="img readme/preview_4.png" alt="Análisis 1" height="400"/>
   <img src="img readme/preview_5.png" alt="Gráficas" height="400"/>
   <img src="img readme/preview_6.png" alt="Información" height="400"/>
