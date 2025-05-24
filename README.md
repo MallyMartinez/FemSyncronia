@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="front-femSyncronia/src/assets/img/png/FemSyncroniaB.png" alt="Logo" width="350"/>
+  <img src="img readme/FemSyncroniaB.png" alt="Logo" width="350"/>
 </p>
 
 > FemSyncronia es una aplicación móvil impulsada por inteligencia artificial, diseñada para acompañar a las mujeres en el seguimiento de su ciclo menstrual. 
@@ -8,7 +8,7 @@
 <table>
 <tr>
   <td width="220">
-    <img src="front-femSyncronia/src/assets/img/png/MID_Tech.png" alt="MID Tech" height="100">
+    <img src="img readme/MID_Tech.png" alt="MID Tech" height="100">
   </td>
   <td>
     Somos <strong>MID Tech</strong>, un grupo de estudiantes de Ingeniería en Computación del <strong>Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)</strong> de la <strong>Universidad de Guadalajara</strong>.
@@ -65,12 +65,12 @@ Ayudar a las mujeres a llevar un mejor control de su ciclo menstrual y disfrutar
 >Una mirada rápida al funcionamiento de la app:
 
 <p align="left">
-  <img src="front-femSyncronia/src/assets/img/png/preview_1.png" alt="Inicio" height="400"/>
-  <img src="front-femSyncronia/src/assets/img/png/preview_2.png" alt="Calendario" height="400"/>
-  <img src="front-femSyncronia/src/assets/img/png/preview_3.png" alt="Registro" height="400"/>
-  <img src="front-femSyncronia/src/assets/img/png/preview_4.png" alt="Análisis 1" height="400"/>
-  <img src="front-femSyncronia/src/assets/img/png/preview_5.png" alt="Gráficas" height="400"/>
-  <img src="front-femSyncronia/src/assets/img/png/preview_6.png" alt="Información" height="400"/>
+  <img src="img readme/preview_1.png" alt="Inicio" height="400"/>
+  <img src="img readme/preview_2.png" alt="Calendario" height="400"/>
+  <img src="img readme/preview_3.png" alt="Registro" height="400"/>
+  <img src="img readme/preview_4.png" alt="Análisis 1" height="400"/>
+  <img src="img readme/preview_5.png" alt="Gráficas" height="400"/>
+  <img src="img readme/preview_6.png" alt="Información" height="400"/>
 </p>
 
 <br>
@@ -78,7 +78,7 @@ Ayudar a las mujeres a llevar un mejor control de su ciclo menstrual y disfrutar
 ## 🏛️ Propiedad intelectual
 
 <p align="center">
-  <img src="front-femSyncronia/src/assets/img/png/UdG.png" alt="Universidad de Guadalajara" height="80"/>
+  <img src="img readme/UdG.png" alt="Universidad de Guadalajara" height="80"/>
 </p>
 
 Todos los derechos de esta aplicación, incluyendo su diseño, logo, funciones y contenido, pertenecen a <strong>MID Tech</strong> en colaboración con el <strong>Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)</strong> de la <strong>Universidad de Guadalajara</strong>.
