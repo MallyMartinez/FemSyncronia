@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="front-femSyncronia/src/assets/img/png/FemSyncronia.png" alt="Logo" width="330"/>
+<p align="center">
+  <img src="front-femSyncronia/src/assets/img/png/FemSyncroniaB.png" alt="Logo" width="350"/>
 </p>
 
 > FemSyncronia es una aplicación móvil impulsada por inteligencia artificial, diseñada para acompañar a las mujeres en el seguimiento de su ciclo menstrual. 
@@ -42,7 +42,7 @@ Ayudar a las mujeres a llevar un mejor control de su ciclo menstrual y disfrutar
 - 🎯 Recomendaciones inteligentes adaptadas al perfil de la usuaria.
 - 🌸 Registro de síntomas con interfaz clara y accesible.
 
-
+<br>
 
 ## 🛠️ Tecnologías utilizadas
 
