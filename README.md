@@ -7,7 +7,7 @@
 ## 👥 ¿Quiénes somos?
 <table>
 <tr>
-  <td width="200">
+  <td width="220">
     <img src="front-femSyncronia/src/assets/img/png/MID_Tech.png" alt="MID Tech" height="100">
   </td>
   <td>
@@ -59,20 +59,21 @@ Ayudar a las mujeres a llevar un mejor control de su ciclo menstrual y disfrutar
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<br>
 
 ## 🖼️ Preview
 >Una mirada rápida al funcionamiento de la app:
 
 <p align="left">
-  <img src="front-femSyncronia/src/assets/img/png/preview_1.png" alt="Inicio" height="400"/>
-  <img src="front-femSyncronia/src/assets/img/png/preview_2.png" alt="Calendario" height="400"/>
+  <img src="front-femSyncronia/src/assets/img/png/preview_2.png" alt="Inicio" height="400"/>
+  <img src="front-femSyncronia/src/assets/img/png/preview_1.png" alt="Calendario" height="400"/>
   <img src="front-femSyncronia/src/assets/img/png/preview_3.png" alt="Registro" height="400"/>
   <img src="front-femSyncronia/src/assets/img/png/preview_4.png" alt="Análisis 1" height="400"/>
   <img src="front-femSyncronia/src/assets/img/png/preview_5.png" alt="Gráficas" height="400"/>
   <img src="front-femSyncronia/src/assets/img/png/preview_6.png" alt="Información" height="400"/>
 </p>
 
-
+<br>
 
 ## 🏛️ Propiedad intelectual
 
